@@ -35,7 +35,7 @@ public class BuyGames extends JFrame implements ActionListener,MouseListener{
 	JScrollPane scrollpane;
 	JTableHeader headerr;
 	
-//awdsaas
+
 	
 	JLabel gameidlabel,gamenamelabel,gamepricelabel,gamegenrelabel,
 			howmanylabel,checkboxlabel,kosong,kosong1;
